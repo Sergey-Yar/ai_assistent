@@ -91,5 +91,5 @@
 
 ## Скриноты бота
 
-[https://github.com/Sergey-Yar/ai_assistent/blob/main/%D0%91%D0%BE%D1%82%201.png](https://github.com/Sergey-Yar/ai_assistent/blob/main/%D0%91%D0%BE%D1%82%201.png?raw=true)
+![Иллюстрация к проекту](https://github.com/Sergey-Yar/ai_assistent/blob/main/%D0%91%D0%BE%D1%82%202.png)
 
